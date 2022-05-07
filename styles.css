@@ -38,15 +38,15 @@ body {
 }
 
 .large-text{
-  font-size: 40px;
+  font-size: 6vmin;
 }
 
 .medium-text{
-  font-size: 33px;
+  font-size: 3.8vmin;
 }
 
 .small-text{
-  font-size: 25px;
+  font-size: 2.8vmin;
 }
 
 .blue-text {
